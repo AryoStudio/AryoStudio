@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, Saya ARYO</h1>
-<h3 align="center">🚀 Pengembang Full Stack | Penggemar Teknologi | Calon Peserta Magang IT</h3>
+<h3 align="center">🚀 Pengembang Full Stack | Penggemar Teknologi</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aryox75&label=Profile%20views&color=0e75b6&style=flat" alt="aryox75" /> 
