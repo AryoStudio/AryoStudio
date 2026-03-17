@@ -15,7 +15,7 @@
 - 👯 **Ingin berkolaborasi di:** Proyek open source sederhana
 - 🤔 **Butuh bantuan dengan:** Konsep backend dan keamanan siber
 - 💬 **Tanya saya tentang:** HTML, CSS, Python, atau belajar coding otodidak
-- 📫 **Hubungi saya:** ariyoariyoputrah@gmail.com
+- 📫 **Hubungi saya:** aryo.pratama.id17@gmail.com
 - ⚡ **Fakta unik:** Saya mulai belajar coding dari kompetisi cyber security
 
 ---
