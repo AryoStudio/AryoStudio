@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="./assets/aryostudio-banner.png" alt="AryoStudio Fullstack Web Developer" width="100%" />
+  <img src="aryostudio-banner.png" alt="AryoStudio Fullstack Web Developer" width="100%" />
 
   # Hi, I'm Aryo 👋
 
